@@ -1,0 +1,19 @@
+h1{
+    margin-bottom: 30px;
+    color: rgb(0, 0, 0);
+}
+input{
+    
+    width: 200px;
+    background-color: rgba(166, 255, 0, 0.445);
+    
+}
+button{
+    
+    background-color: rgba(126, 248, 248, 0.562);
+    
+}
+
+body{
+    background-color: rgba(250, 174, 233, 0);
+}
